@@ -1,0 +1,66 @@
+import '../models/product.dart';
+
+class ProductsData {
+  static List<Product> items = [
+    Product(
+      id: '1',
+      name: 'Nike Air Max',
+      price: 120.0,
+      brand: 'Nike',
+      category: 'Shoes',
+      inStock: 'Yes',
+      imageUrl: 'assets/images/nike.png',
+      description: 'All day comfort with a modern design. Suitable for everyday wear.',
+    ),
+    Product(
+      id: '2',
+      name: 'Travel Backpack',
+      price: 60.0,
+      brand: 'Urban Gear',
+      category: 'Bags',
+      inStock: 'Yes',
+      imageUrl: 'assets/images/backpack.png',
+      description: 'A practical backpack with multiple compartments for daily travel.',
+    ),
+    Product(
+      id: '3',
+      name: 'Wireless Headphones',
+      price: 199.0,
+      brand: 'SoundMax',
+      category: 'Electronics',
+      inStock: 'Yes',
+      imageUrl: 'assets/images/headphones.png',
+      description: 'Comfortable wireless headphones with clear sound and long battery life.',
+    ),
+    Product(
+      id: '4',
+      name: 'Smart Watch',
+      price: 299.0,
+      brand: 'Tech Time',
+      category: 'Wearables',
+      inStock: 'Yes',
+      imageUrl: 'assets/images/watch.png',
+      description: 'A modern smart watch for notifications, activity tracking, and daily use.',
+    ),
+    Product(
+      id: '5',
+      name: 'Sunglasses',
+      price: 90.0,
+      brand: 'Vision',
+      category: 'Accessories',
+      inStock: 'Yes',
+      imageUrl: 'assets/images/sunglasses.png',
+      description: 'Lightweight sunglasses with a simple design for sunny days.',
+    ),
+    Product(
+      id: '6',
+      name: 'Casual Shoes',
+      price: 85.0,
+      brand: 'StreetStep',
+      category: 'Shoes',
+      inStock: 'No',
+      imageUrl: 'assets/images/casual_shoes.png',
+      description: 'Comfortable casual shoes designed for daily walking and relaxed outfits.',
+    ),
+  ];
+}
