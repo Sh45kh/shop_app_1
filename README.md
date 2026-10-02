@@ -3,7 +3,7 @@
 Flutter Shopping Application
 
 ## Photos of the Project
-## Getting Started<img width="457" height="807" alt="Screenshot 2026-10-02 185017" src="https://github.com/user-attachments/assets/168b3f8c-d8fa-4eff-abc9-e2dda485ec4f" />
+## 
 
 <img width="437" height="828" alt="Screenshot 2026-10-02 184904" src="https://github.com/user-attachments/assets/39fbb50c-f5b5-462d-99d7-2f247ae5ecb1" />
 <img width="447" height="831" alt="Screenshot 2026-10-01 233015" src="https://github.com/user-attachments/assets/2664adc6-52de-4eca-ac15-54556706d914" />
